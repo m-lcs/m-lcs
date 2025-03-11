@@ -41,7 +41,6 @@ Je suis un développeur passionné spécialisé dans le développement web et mo
 - 📱 **Application mobile** : Gestion d'abonnements en React Native
 - 🎮 **Serveur de jeu** : Minecraft & Garry's Mod (Minijeux, PvP Faction, DarkRP)
 - 🌐 **Portfolio** : Développement en Next.js & Netlify
-- 🍽️ **Site web** : "L'Orient Espace" (restaurant)
 
 ## 📈 Statistiques GitHub
 
