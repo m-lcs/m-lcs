@@ -4,6 +4,12 @@
 
 Je suis un développeur passionné spécialisé dans le développement web et mobile. J'aime créer des applications modernes, des sites web interactifs et des projets innovants.
 
+## 📂 Projets en cours
+
+- 📱 **Application mobile** : Suivi des dépenses et revenus (nom à définir)
+- 🎮 **Serveur de jeu** : Minecraft & Garry's Mod (Minijeux, PvP Faction, DarkRP)
+- 🌐 **Portfolio** : Développement en Next.js & Netlify [xlcs.codes](https://xlcs.codes/)
+
 ## 🔧 Technologies & Outils
 
 ### Frontend
@@ -35,12 +41,6 @@ Je suis un développeur passionné spécialisé dans le développement web et mo
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-## 📂 Projets en cours
-
-- 📱 **Application mobile** : Gestion d'abonnements en React Native
-- 🎮 **Serveur de jeu** : Minecraft & Garry's Mod (Minijeux, PvP Faction, DarkRP)
-- 🌐 **Portfolio** : Développement en Next.js & Netlify
 
 ## 📈 Statistiques GitHub
 
