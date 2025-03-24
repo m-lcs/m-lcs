@@ -1,8 +1,8 @@
 [🇫🇷 Version Française](README.md)
 
-# 🌟 Welcome to my GitHub 🌟
-
 <div align="center">
+
+# 🌟 Welcome to my GitHub 🌟
 
 ## 👋 Hi! My name is Lucas (m-lcs)
 
